@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "name": "Laptop",
+      "amount": "50000",
+      "type": "expense",
+      "id": 3
+    },
+    {
+      "name": "Salary bonus",
+      "amount": "20000",
+      "type": "income",
+      "id": 4
+    },
+    {
+      "name": "upori income",
+      "amount": "25000",
+      "type": "income",
+      "id": 5
+    },
+    {
+      "name": "Treat given",
+      "type": "expense",
+      "amount": 3000,
+      "id": 6
+    },
+    {
+      "name": "Comodity",
+      "amount": "10000",
+      "type": "expense",
+      "id": 8
+    },
+    {
+      "name": "Salary",
+      "amount": "20000",
+      "type": "income",
+      "id": 9
+    },
+    {
+      "name": "Dividend",
+      "type": "income",
+      "amount": 10000,
+      "id": 10
+    },
+    {
+      "name": "Grocery",
+      "type": "expense",
+      "amount": 3000,
+      "id": 11
+    },
+    {
+      "name": "Garage revenue",
+      "type": "income",
+      "amount": 7000,
+      "id": 12
+    },
+    {
+      "name": "Rent",
+      "type": "expense",
+      "amount": 8000,
+      "id": 13
+    },
+    {
+      "name": "Utility bills",
+      "type": "expense",
+      "amount": 5000,
+      "id": 14
+    },
+    {
+      "name": "Online purchase",
+      "type": "expense",
+      "amount": 500,
+      "id": 15
+    }
+  ]
+}
